@@ -3,5 +3,8 @@
 void main()
 {
 
-lol
+for (,,)
+{
+	Kuch to karo;
+}
 }
