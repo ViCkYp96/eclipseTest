@@ -7,4 +7,5 @@ for (,,)
 {
 	Kuch to karo;
 }
+
 }
